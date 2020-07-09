@@ -258,10 +258,9 @@ form,
 		display:none;
     
 	}
-	
-     .appointment-form {
-         font-size: 12px!important;
-	 }
+	form,
+    .appointment-form {
+    font-size: 12px;}
     p {
         text-align: justify;
     }
