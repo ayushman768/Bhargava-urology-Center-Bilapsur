@@ -266,4 +266,7 @@ form,
     p {
         text-align: justify;
     }
+	h1{
+	font-size:23px!important;
+	}
 }
