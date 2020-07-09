@@ -23,7 +23,7 @@ h2,h3,h4,h5,h6{
     padding: 7px;
 }
 h1{
-font-size:28px!important;
+font-size:28px;
 }
 
 /* ############################ */
@@ -142,7 +142,7 @@ p {
 
 .service-list {
     box-shadow: 1px 4px 5px 0px;
-    padding: 10px px;
+    padding: 10px;
     margin: 0px 10px;
     height: 370px;
 }
@@ -267,6 +267,6 @@ form,
         text-align: justify;
     }
 	h1{
-	font-size:23px!important;
+	font-size:23px;
 	}
 }
