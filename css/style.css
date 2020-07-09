@@ -23,7 +23,7 @@ h2,h3,h4,h5,h6{
     padding: 7px;
 }
 h1{
-font-size: 27px!important;
+font-size:28px!important;
 }
 
 /* ############################ */
@@ -118,9 +118,7 @@ footer {
     z-index: 99999;
     color: white;
 }
-footer{
-  z-index:0;
-}
+
 .item img {
     width: 100%;
     height: 495px!important;
@@ -142,7 +140,7 @@ p {
 
 .service-list {
     box-shadow: 1px 4px 5px 0px;
-    padding: 10px;
+    padding: 10px px;
     margin: 0px 10px;
     height: 370px;
 }
@@ -262,9 +260,8 @@ form,
 	}
 	form,
     .appointment-form {
-    font-size: 12px;}
+    font-size: 15px;}
     p {
         text-align: justify;
     }
-
 }
