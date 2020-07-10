@@ -66,7 +66,9 @@ a {
     display: inline-block!important;
     padding: 5px;
 }
-
+a:focus ,a:hover{
+	color:white!important;
+}
 .text-position {
     display: inline-flex;
 }
