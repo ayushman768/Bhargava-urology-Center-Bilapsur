@@ -27,6 +27,10 @@ font-size:28px!important;
 }
 
 /* ############################ */
+.text-animate{
+	font-size:25px;
+	color: red;
+}
 
 .col-flex {
     display: flex;
