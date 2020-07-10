@@ -269,10 +269,7 @@ form,
 		display:none;
     
 	}
-	.h1{
-     font-size:22px!important;
-    }
-
+	.mob{font-size:23px!important;}
 	form,
     .appointment-form {
     font-size: 12px;}
